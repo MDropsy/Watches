@@ -17,7 +17,7 @@ Some subject I presented to others BeCode students during daily tech talks.
 
 20/11/2020 :
 
-09/12/2020 :
+09/12/2020 : Object recognition with GluonCV
 
 28/12/2020 : Dash 
 
