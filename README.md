@@ -15,10 +15,10 @@ Some subject I presented to others BeCode students during daily tech talks.
 
 30/10/2020 : GANs part. II [Link](https://prezi.com/view/m0A5Gh9dTAz6y6Xg3AxP/) + live demo of a GAN with GauGAN [GauGAN](http://nvidia-research-mingyuliu.com/gaugan/)
 
-20/11/2020 :
+20/11/2020 : Object recognition with GluonCV : Notebook [here](https://github.com/MDropsy/Watches/tree/main/GluonCV_watch)
 
-09/12/2020 : Object recognition with GluonCV
+09/12/2020 : Hackaton "Building the future of the Belgian police force" [Link](https://police-hackathon.be/en/)
 
-28/12/2020 : Dash 
+28/12/2020 : Dash : Notebook [here](https://github.com/MDropsy/Watches/tree/main/Dash_prez)
 
-13/01/2021 : Face recognition 
+13/01/2021 : Face extraction : Notebook [here](https://github.com/MDropsy/Watches/tree/main/Face_extraction)
