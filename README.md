@@ -22,3 +22,5 @@ Some subject I presented to others BeCode students during daily tech talks.
 28/12/2020 : Dash : Notebook [here](https://github.com/MDropsy/Watches/tree/main/Dash_prez)
 
 13/01/2021 : Face extraction : Notebook [here](https://github.com/MDropsy/Watches/tree/main/Face_extraction)
+
+05/02/2021 : Keras viz & ColabCode : Notebook [here](https://github.com/MDropsy/Keras-vis-exemple)
